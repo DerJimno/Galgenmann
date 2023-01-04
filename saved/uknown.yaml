@@ -1,0 +1,28 @@
+--- !ruby/object:Game
+secret_word: harassment
+display:
+- _
+- a
+- _
+- a
+- _
+- _
+- _
+- e
+- _
+- t
+stick: 10
+used_letters:
+- a
+- e
+- b
+- t
+- f
+save: true
+wrong_letters:
+- b
+- f
+stickman: |2-
+    O
+   /|\
+   /

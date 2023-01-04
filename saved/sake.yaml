@@ -1,0 +1,27 @@
+--- !ruby/object:Game
+secret_word: influence
+display:
+- i
+- n
+- _
+- _
+- _
+- e
+- n
+- _
+- e
+stick: 8
+used_letters:
+- a
+- e
+- g
+- i
+- g
+- n
+save: true
+wrong_letters:
+- a
+- g
+stickman: |2
+    O
+   /|\

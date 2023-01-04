@@ -1,0 +1,31 @@
+--- !ruby/object:Game
+secret_word: recommends
+display:
+- r
+- e
+- c
+- _
+- m
+- m
+- e
+- _
+- d
+- s
+stick: 10
+used_letters:
+- g
+- t
+- d
+- e
+- s
+- c
+- m
+- r
+save: true
+wrong_letters:
+- g
+- t
+stickman: |2-
+    O
+   /|\
+   /
